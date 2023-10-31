@@ -1,27 +1,22 @@
-# [Seu Nome]
+# [Vinicius Sodré]
 
 ## Desenvolvedor Front-End
 
 ### Resumo Profissional
 
-Desenvolvedor Front-End apaixonado por criar experiências web incríveis. Com [X anos] de experiência, sou especializado em transformar designs criativos em interfaces interativas e responsivas. Minhas habilidades incluem HTML, CSS, JavaScript e o uso de várias bibliotecas e frameworks front-end. Sou um solucionador de problemas entusiasta, comprometido com a qualidade e a usabilidade do produto final.
+Desenvolvedor Front-End apaixonado por criar experiências web incríveis. Com [3 anos] de experiência, sou especializado em transformar designs criativos em interfaces interativas e responsivas. Minhas habilidades incluem HTML, CSS, JavaScript e o uso de várias bibliotecas e frameworks front-end. Sou um solucionador de problemas entusiasta, comprometido com a qualidade e a usabilidade do produto final.
 
 ### Experiência Profissional
 
-**Desenvolvedor Front-End Sênior | [Nome da Empresa] | [Data de Início] - Presente**
+**Desenvolvedor Front-End Sênior | [Grupo SOMA] | [Setembro - 2021] - [Outubro - 2024]**
 
 - Desenvolvimento e manutenção de websites e aplicativos front-end altamente responsivos e de alto desempenho.
 - Colaboração estreita com a equipe de design para traduzir protótipos em código funcional.
 - Otimização de desempenho, garantindo tempos de carregamento rápidos e uma experiência de usuário suave.
 
-**Desenvolvedor Front-End | [Nome da Empresa] | [Data de Início] - [Data de Término]**
-
-- Desenvolvimento de sites e aplicativos interativos, implementando as últimas técnicas de HTML, CSS e JavaScript.
-- Colaboração eficaz com a equipe de desenvolvimento back-end para integrar interfaces com sistemas de back-end complexos.
-
 ### Educação
 
-**Bacharelado em Ciência da Computação | [Nome da Universidade] | [Ano de Conclusão]**
+**Tecnólogo em Sistemas para Internet | [Estácio] | [2024]**
 
 ### Habilidades Técnicas
 
