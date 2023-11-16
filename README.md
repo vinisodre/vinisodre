@@ -22,13 +22,12 @@ Desenvolvedor Front-End apaixonado por criar experiências web incríveis. Com [
 
 - HTML5, CSS3
 - JavaScript (ES6+)
-- React, Vue.js
+- React
 - Responsive Web Design
 - Pré-processadores CSS (Sass, Less)
 - Controle de Versão (Git)
 - Gerenciamento de Pacotes (npm, yarn)
-- Testes de Unidade (Jest, Mocha)
-- Construção de interfaces acessíveis (WCAG)
+- Construção de interfaces acessíveis
 - Ferramentas de desenvolvimento web (VSCode, Chrome DevTools)
 
 ### Projetos Destacados
