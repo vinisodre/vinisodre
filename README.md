@@ -30,19 +30,4 @@ Desenvolvedor Front-End apaixonado por criar experiências web incríveis. Com [
 - Construção de interfaces acessíveis
 - Ferramentas de desenvolvimento web (VSCode, Chrome DevTools)
 
-### Projetos Destacados
-
-- Liste alguns projetos front-end relevantes que você tenha trabalhado ou contribuído, com uma breve descrição e links para eles, se disponíveis.
-
-### Certificações
-
-- Qualquer certificação relevante em desenvolvimento web, como certificados de cursos online ou certificações de frameworks.
-
-### Idiomas
-
-- Indique qualquer idioma adicional que você possa falar, se aplicável.
-
-### Interesses
-
-- Quaisquer interesses relacionados ao desenvolvimento front-end, como novas tecnologias, design web ou práticas de desenvolvimento.
 
