@@ -8,7 +8,7 @@ Desenvolvedor Front-End apaixonado por criar experiências web incríveis. Com [
 
 ### Experiência Profissional
 
-**Desenvolvedor Front-End Sênior | [Grupo SOMA] | [Setembro - 2021] - [Outubro - 2024]**
+**Desenvolvedor Front-End Sênior | [Grupo SOMA] | [Setembro - 2021] - [Outubro - 2023]**
 
 - Desenvolvimento e manutenção de websites e aplicativos front-end altamente responsivos e de alto desempenho.
 - Colaboração estreita com a equipe de design para traduzir protótipos em código funcional.
